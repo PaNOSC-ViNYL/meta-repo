@@ -1,4 +1,8 @@
 [submodule "SimEx"]
 	path = SimEx
 	url = git@github.com:PaNOSC-ViNYL/SimEx.git
-	branch = master
+	branch = develop
+[submodule "McStasScript"]
+	path = McStasScript
+	url = git@github.com:PaNOSC-ViNYL/McStasScript.git
+	branch = v0.0.21
